@@ -8,6 +8,4 @@ TO MAKE A WEBSITE WITH A LANDING PAGE WITH THE HELP OF HTML AND CSS . ALONG WITH
 
 <BR>
 <HR>
-IT IS A WEBSITE FOR PROMOTING TOURISM IN RAJASTHAN.IT GIVES KNOWLEGDE ALL ABOUT TOURSIM SPOTS SUCH AS UDAIPUR,JAIPUR,JAISALMER ETC.IT ALSO TELLS THAT WHY RAJASTHAN IS FAMOUS FOR TOURISM , ABOUT ITS DELICIOUS FOOD , ABOUT ITS CULTURAL DANCE ,CAMEL SAFARI ETC.
-IT ALSO HAS A MAP FOR GETTING LOCATION OF RAJASTHAN'S TOURISM SPOTS.
-AND FOR FURTHER ANY  QUERY YOU CAN CONTACT US USING CONTACT PAGE .
+This website helps to promoting tourism in rajasthan.It gives all the information of tourism spots such as udaipur, jaipur, jaisalmer and many more.By this we can also know why rajasthan is different from other states for its delicious food, for its cultural dance,camel safari etc.This website if different from others because it is giving  you a map that helps to get a perfect location for tourism spots.And for any query you can contact us.
