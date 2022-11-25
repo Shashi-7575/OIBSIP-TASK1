@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE INCREDIBLE RAJASTHAN</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section class="sub-header">
+      <nav>
+          <a href="index.html"><img src="IMAGES\logo.png"></a>
+          <div class="nav-links" id="navLinks">
+            <i class="fa fa-times" onclick="hideMenu()"></i>
+           <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="places.html">PLACES</a></li>
+                <li><a href="BLOG.HTML">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+           </ul>
+        
+          </div>
+          <i class="fa fa-bars" onclick="showMenu()"></i>
+      </nav>
+<h1>PLACES</h1>
+
+    </section>
+    <!--------PLACES TO VISIT ----->
+    <section class="PLACES">
+        <h1>PLACES TO VISIT </h1>
+        <p>The palaces of Jaipur, lakes of Udaipur, and desert forts of Jodhpur, Bikaner, and Jaisalmer are among the most preferred destinations of many tourists, Indian and foreign.</p>
+        <div class="row">
+           <div class="places-col">
+              <h3>LAKES</h3>
+              <p>There are sweet and brackish water lakes in which most of the lakes are of fresh water which are as follows- 1:Jaisamand Lake 2:Rajsamand Lake 3:Lake Pichola 4:Fatehsagar Lake 5:Udaysagar Lake 6:Nakki Lake 7:Annasagar Lake 8:Pushkar Lake 9:Balsamand Lake 10:Kolayat Lake 11:Silisedh Lake</p>
+           </div>
+           <div class="places-col">
+               <h3>FORTS</h3>
+               <p>Rajasthan’s forts and palaces stand strong even today and speak of a glorious past. Their architecture and beauty are truly marvelous, and the grandeur is known to have made eyes sparkle, and heart skip a beat. As you wander through narrow passages, and run your fingers on curlicued carvings on the walls, you can feel the kind of craftsmanship that well intro their construction.</p>
+            </div>
+            <div class="places-col">
+               <h3>Wildlife Sanctuaries and National Parks</h3>
+               <p>Rajasthan has many wildlife and bird sanctuaries. Prominent among them are Keoladeo Ghana Bird Sanctuary, Ranthambore National Park, Mukundara Hills National Park, Sariska Tiger Reserve and Desert National Park.</p>
+            </div>
+            <div class="places-col">
+               <h3>Religious Sites</h3>
+               <p>Rajasthan has many famous temples from medieval times. Some prominent temples include Eklingji Temple, Shrinathji Temple, Trinetra Ganesh Temple, Ranthambore, Mehandipur Balaji, Govind Dev Ji, Salasar Balaji, Ranakpur Jain temple, Osian temple, Brahma Temple, Pushkar and Dilwara Temples. Along with temples, there are a few important Sufi shrine too, most famous among them is Dargah (Tomb) of Khwaja Moinuddin Chishti.</p>
+            </div>
+
+
+        </div>
+
+     </section>
+ <!-------FACILITIES-->
+ <section class="facilities">
+    <h1>MUST-DO ACTIVITIES IN RAJASTHAN</h1>
+    <p>Despite being a desert land, Rajasthan boats a unique fact which says that it is one of the top five Indian states with the maximum number of lakes. </p>
+    <div class="row">
+        <div class="facilities-col">
+            <img src="IMAGES\wls.jpg">
+            <h3>SAFARI – A Rendezvous With The Wildlife Of Rajasthan</h3>
+            <p>The most popular ones are Ranthambore National Park, Sariska Tiger Reserve, Keoladeo National Park, and Bharatpur Bird Sanctuary. Tigers, elephants, boars, bears, several species of birds, and various other inhabitants of the wild greet you to these wildlife sanctuaries.</p>
+        </div>
+        <div class="facilities-col">
+            <img src="IMAGES\camel.jpg">
+            <h3>Camel Safari – One Of The Popular Things To Do</h3>
+            <p>A camel safari in Rajasthan is again one of the exclusive experiences you can have here. Exquisite views of the desert seem even more beautiful from camel’s back.</p>
+        </div>
+        <div class="facilities-col">
+            <img src="IMAGES\dance.jpeg">
+            <h3>Music Of Kalbeliya Tribe – Match The Steps!</h3>
+            <p>Do not forget to witness this gorgeous folk dance performance when touring the “Land of Maharajas” with your family and friends. </p>
+        </div>
+    </div>
+</section>
+<!--footer-->
+   <section class="footer">
+      <h4>ABOUT US</h4>
+      <p>Department of Tourism of Rajasthan Government<br>
+     <p>MADE WITH <p>&hearts;</p> BY SHASHIKALA RAWAT</p>
+
+   </section>
+
+
+
+<!----Javascript for toggle menu-------->
+<script>
+    var navLinks = document.getElementById("navLinks")
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+    
+    function hideMenu(){
+        navLinks.style.right = "-200px";
+    }
+   
+</script>
+</body>
+</html>
