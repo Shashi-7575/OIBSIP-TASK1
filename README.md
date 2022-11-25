@@ -2,9 +2,11 @@
 WHAT IS  TASK 1 OF OASIS INFOBYTE?<BR><HR>
 TO MAKE A WEBSITE WITH A LANDING PAGE WITH THE HELP OF HTML AND CSS . ALONG WITH THIS, IT  USE SOME PROPERTIES OF HTML SUCH AS DIVIDING SECTIONS, ARRANGING ITEMS AND MANY MORE.<BR>
 <BR><HR>
-<B>ABOUT THIS PROJECT</B>![Screenshot (21)](https://user-images.githubusercontent.com/103526578/203983133-aa3fc41b-6893-428f-81cb-25c410b2e647.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/103526578/203983197-a44bdd22-de71-4294-a1dd-3dfb829722f0.png)
-![Screenshot (25)](https://user-images.githubusercontent.com/103526578/203983244-0610bcc6-4b30-45b9-a342-05f41ab69ecf.png)
+<B>ABOUT THIS PROJECT</B><br>
+<h2>THE INCREDIBLE RAJASTHAN!![Screenshot (21)](https://user-images.githubusercontent.com/103526578/204040072-ba0fe3b3-0931-4e5d-ba4e-7bb4f9e98967.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/103526578/204040092-fbdd6dd3-12dc-4f6e-84bb-5a1bbdeb8519.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/103526578/204040105-809d5d05-4de1-4457-b447-1998cf9b6720.png)
+!<br>PDHARO MHARE DESH<h2>
 
 <BR>
 <HR>
